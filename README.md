@@ -1,2 +1,45 @@
-# AIVoyage
-AIVoyage is an AI smart travel assistant developed natively by Hongmeng. It provides users with full-link smart travel services from route planning to real-time navigation through natural language interaction. Deeply integrate the core capabilities of the Amap open platform to redefine the human-vehicle interaction experience.
+## 🚀 AIVoyage - AI驱动的全链路智能出行助手
+> 🌟 **HarmonyOS原生 | AI原生开发 | 高德地图API深度集成**
+### 📖 项目简介
+**AIVoyage** 是一款基于鸿蒙原生开发的AI智能出行助手，通过自然语言交互为用户提供从路径规划到实时导航的全链路智能出行服务。深度融合高德开放平台核心能力，重新定义人车交互体验。
+### ✨ 核心功能
+- 🗣️ **智能语音交互**：自然语言理解，一句话搞定复杂出行需求
+- 🧭 **多模态路径规划**：综合时间、路况、天气、用户偏好的智能决策
+- ⚡ **实时动态调整**：突发路况智能预警，路线秒级重算
+- 🎯 **个性化推荐**：基于用户习惯的POI推荐与行程优化
+- 📱 **鸿蒙原生体验**：元服务卡片、AR导航、无缝多端协同
+### 🛠 技术栈
+- **前端框架**：ArkTS / ArkUI（鸿蒙原生）
+- **地图服务**：高德开放平台API（路径规划、实时交通、POI搜索）
+- **AI引擎**：大语言模型（自然语言理解与决策）
+- **后端服务**：云函数SCF / 对象存储COS
+### 🌟 项目亮点
+- 🤖 **AI原生开发**：从需求分析到代码生成，全程AI赋能
+- 🏆 **大赛定制**：专为高德空间智能开发者大赛打造，冲击鸿蒙特别奖
+- 📊 **数据驱动**：实时交通+天气+用户画像的多维决策引擎
+- 🔧 **高可扩展**：模块化设计，支持快速迭代与功能扩展
+### 🚀 快速开始
+```bash
+# 克隆项目
+git clone https://github.com/GoodTimeGGB/AIVoyage.git
+# 使用DevEco Studio打开
+# 配置高德API Key
+# 编译运行即可体验
+```
+### 📱 系统要求
+- HarmonyOS 3.0+
+- DevEco Studio 4.0+
+- 高德开放平台API Key
+### 🏆 参赛信息
+- **赛事名称**：高德空间智能开发者大赛
+- **参赛方向**：智能出行 + 鸿蒙生态创新
+- **创新价值**：AI+空间智能的深度融合，提升出行决策效率
+### 🤝 贡献指南
+欢迎提交Issue和Pull Request！让我们一起打造更智能的出行体验。
+### 📄 许可证
+MIT License - 详见 [LICENSE](LICENSE) 文件
+---
+### 📞 联系方式
+- **项目维护者**：[GoodTimeGGB(https://github.com/GoodTimeGGB)]
+- **邮箱**：[hotmail(wjn0427@hotmail.com)]
+---
