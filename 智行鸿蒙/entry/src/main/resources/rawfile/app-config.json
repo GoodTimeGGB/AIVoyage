@@ -1,0 +1,16 @@
+{
+  "amap_key": "",
+  "llm": {
+    "provider": "qianwen",
+    "api_key": "",
+    "base_url": "https://dashscope.aliyuncs.com/api/v1",
+    "model": "qwen-turbo"
+  },
+  "user_preferences": {
+    "home_address": "",
+    "work_address": "",
+    "preferred_route_type": "fastest",
+    "avoid_highway": false,
+    "avoid_toll": false
+  }
+}

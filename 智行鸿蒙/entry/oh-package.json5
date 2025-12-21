@@ -1,0 +1,7 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "dependencies": {
+    "com.amap.harmony": "file:./libs/amap-sdk.har"
+  }
+}

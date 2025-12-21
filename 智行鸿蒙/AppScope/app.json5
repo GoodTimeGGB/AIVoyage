@@ -1,0 +1,20 @@
+{
+  "app": {
+    "bundleName": "com.personalproject.zhixinghongmeng",
+    "vendor": "personal",
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    },
+    "apiVersion": {
+      "compatible": 9,
+      "releaseType": "Release"
+    },
+    "metadata": [
+      {
+        "name": "AMAP_KEY",
+        "value": ""
+      }
+    ]
+  }
+}

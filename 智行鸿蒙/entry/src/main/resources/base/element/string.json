@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "app_name", "value": "智行鸿蒙" },
+    { "name": "module_desc", "value": "智行鸿蒙入口模块" },
+    { "name": "service_name", "value": "后台监听服务" },
+    { "name": "home_card_desc", "value": "智行鸿蒙快捷卡片" }
+  ]
+}
